@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Ecommerce-Scart-React/static/css/main.b50c37fe.css",
+    "main.js": "/Ecommerce-Scart-React/static/js/main.28f0a89c.js",
+    "static/js/787.de259721.chunk.js": "/Ecommerce-Scart-React/static/js/787.de259721.chunk.js",
+    "static/media/Product2.png": "/Ecommerce-Scart-React/static/media/Product2.5f080d9e47bf46ca3fce.png",
+    "static/media/Product3.png": "/Ecommerce-Scart-React/static/media/Product3.c7785c796d0b2bf5aa2b.png",
+    "static/media/Product4.png": "/Ecommerce-Scart-React/static/media/Product4.dce93278370eb9a94e56.png",
+    "static/media/Product1.png": "/Ecommerce-Scart-React/static/media/Product1.87f6c2f48f7e15ed845b.png",
+    "static/media/Product8.webp": "/Ecommerce-Scart-React/static/media/Product8.8bd0ab9ccc0cf9fb335d.webp",
+    "static/media/Product5.png": "/Ecommerce-Scart-React/static/media/Product5.a13c8fc38072a14d6633.png",
+    "static/media/Product6.webp": "/Ecommerce-Scart-React/static/media/Product6.5828a0fe3c77468b8726.webp",
+    "static/media/Product7.webp": "/Ecommerce-Scart-React/static/media/Product7.59c9a0eba54726d9fc95.webp",
+    "index.html": "/Ecommerce-Scart-React/index.html",
+    "main.b50c37fe.css.map": "/Ecommerce-Scart-React/static/css/main.b50c37fe.css.map",
+    "main.28f0a89c.js.map": "/Ecommerce-Scart-React/static/js/main.28f0a89c.js.map",
+    "787.de259721.chunk.js.map": "/Ecommerce-Scart-React/static/js/787.de259721.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b50c37fe.css",
+    "static/js/main.28f0a89c.js"
+  ]
+}
