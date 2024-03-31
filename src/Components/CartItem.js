@@ -9,8 +9,6 @@ const CartItem = (props) => {
       <img src={productImage}/>
       <div className='description'>
         <p>
-          
-
           <b>{productName}</b>
         </p>
         <p>{price}</p>

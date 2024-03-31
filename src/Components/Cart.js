@@ -4,11 +4,13 @@ import { PRODUCTS } from './Products';
 import { ShopContext } from '../Context/Shop-Context';
 import CartItem from './CartItem';
 import { useNavigate } from 'react-router-dom';
+
  const Cart = () => {
     const { cartItems, getTotalCartAmount, checkout }= useContext(ShopContext);
     const totalAmount = getTotalCartAmount();
 
     const navigate = useNavigate();
+    
 
   return (
     <div className='cart'>

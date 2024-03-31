@@ -9,7 +9,7 @@ import product8 from "../assets/Product8.webp";
 
 
 
-export const PRODUCTS=[
+export const PRODUCTS = [
     {
         id:1,
         productName:"IPhone",
